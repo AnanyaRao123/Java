@@ -1,5 +1,5 @@
 import java.util.*;
-public class P2 {
+public class P02 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		int rows=sc.nextInt();
